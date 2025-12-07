@@ -1,4 +1,4 @@
-# 📊 Student Attendance Dashboard
+#  Student Attendance Dashboard
 
 A premium, data-driven dashboard for monitoring student attendance, analyzing trends, and identifying at-risk students. Built with a modern React frontend and a robust Python FastAPI backend.
 
@@ -6,7 +6,7 @@ A premium, data-driven dashboard for monitoring student attendance, analyzing tr
 <img width="1436" height="811" alt="Screenshot 2025-12-07 at 8 59 39 PM" src="https://github.com/user-attachments/assets/9a230433-5313-49c1-8e97-d73c32ace147" />
 
 
-## 🚀 Features
+##  Features
 
 -   **Premium UI**: Glassmorphism design with dark mode, smooth gradients, and interactive elements.
 -   **Real-time Insights**: Automatically identifies the lowest-performing class and latecomer trends.
@@ -17,7 +17,7 @@ A premium, data-driven dashboard for monitoring student attendance, analyzing tr
 -   **Smart Search**: "HD Glass" search box to filter students by ID.
 -   **Student Details**: Click on any student to view their full daily attendance history.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 -   **React** (Vite)
@@ -30,7 +30,7 @@ A premium, data-driven dashboard for monitoring student attendance, analyzing tr
 -   **SQLite** (Database)
 -   **Pandas** (Data Processing)
 
-## 🏃‍♂️ Local Setup
+##  Local Setup
 
 ### Prerequisites
 -   Node.js & npm
@@ -56,7 +56,7 @@ cd attendance-dashboard
 npm install
 ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── attendance-dashboard/   # React Frontend
@@ -74,6 +74,6 @@ npm install
 └── README.md               # Project Documentation
 ```
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
