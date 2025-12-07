@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from .database import get_db_connection
+from database import get_db_connection
 from datetime import datetime, timedelta
 from collections import defaultdict
 
