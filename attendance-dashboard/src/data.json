@@ -1,0 +1,11 @@
+{
+  "student_weekly_attendance": [],
+  "class_overall_attendance": [],
+  "low_attendance_students": [],
+  "latecomer_stats": {},
+  "metadata": {
+    "total_students": 142,
+    "total_days": 0,
+    "date_range": []
+  }
+}
