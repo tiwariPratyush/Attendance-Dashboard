@@ -2,8 +2,9 @@
 
 A premium, data-driven dashboard for monitoring student attendance, analyzing trends, and identifying at-risk students. Built with a modern React frontend and a robust Python FastAPI backend.
 
-![Dashboard Preview](https://i.imgur.com/placeholder-image.png)
-*(Replace with an actual screenshot of your dashboard)*
+# Dashboard Preview
+<img width="1436" height="811" alt="Screenshot 2025-12-07 at 8 59 39 PM" src="https://github.com/user-attachments/assets/9a230433-5313-49c1-8e97-d73c32ace147" />
+
 
 ## 🚀 Features
 
@@ -54,27 +55,6 @@ Open a new terminal, navigate to the dashboard folder, and install dependencies:
 cd attendance-dashboard
 npm install
 ```
-
-Start the development server:
-```bash
-npm run dev
-```
-The dashboard will be available at `http://localhost:5173`.
-
-## 🌐 Deployment
-
-### Backend (Render)
-1.  Push code to GitHub.
-2.  Create a new Web Service on [Render](https://render.com/).
-3.  Select the `backend` directory as the Root Directory.
-4.  Build Command: `pip install -r requirements.txt`
-5.  Start Command: `uvicorn main:app --host 0.0.0.0 --port 10000`
-
-### Frontend (Vercel)
-1.  Push code to GitHub.
-2.  Import the project on [Vercel](https://vercel.com/).
-3.  Select `attendance-dashboard` as the Root Directory.
-4.  Add Environment Variable: `VITE_API_URL` = `https://your-render-backend-url.onrender.com`
 
 ## 📂 Project Structure
 
